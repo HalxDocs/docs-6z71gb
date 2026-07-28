@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-mcx5wa.cnkitawin.online/sitemap.xml
